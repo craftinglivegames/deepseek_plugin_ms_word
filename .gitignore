@@ -1,0 +1,8 @@
+bridge/venv/
+__pycache__/
+*.pyc
+bridge/bridge.log
+bin/
+obj/
+*.dll
+*.pdb
